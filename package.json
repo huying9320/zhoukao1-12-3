@@ -1,0 +1,23 @@
+{
+  "devDependencies": {
+    "gulp-webserver": "^0.9.1"
+  },
+  "name": "zhoukao1-12-3",
+  "description": "周考1-12-3",
+  "version": "1.0.0",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huying9320/zhoukao1-12-3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huying9320/zhoukao1-12-3/issues"
+  },
+  "homepage": "https://github.com/huying9320/zhoukao1-12-3#readme"
+}
